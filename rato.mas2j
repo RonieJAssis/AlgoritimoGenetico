@@ -1,0 +1,11 @@
+MAS rato {
+
+	infrastructure: Centralised
+
+	agents:
+		natureza;
+		evolucao;
+
+	aslSourcePath:
+		"src/asl";
+}
